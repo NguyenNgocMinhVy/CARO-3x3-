@@ -1,5 +1,5 @@
 # Caro 3x3 Game
-##Dowdload/run
+## Dowdload/run
 https://github.com/NguyenNgocMinhVy/CARO-3x3-/releases
 
 ## Documentation
