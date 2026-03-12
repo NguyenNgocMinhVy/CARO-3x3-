@@ -1,4 +1,6 @@
 # Caro 3x3 Game
+##Dowdload/run
+https://github.com/NguyenNgocMinhVy/CARO-3x3-/releases
 
 A simple **Caro (Tic Tac Toe) 3x3** game built with **C# WinForms**.
 
@@ -16,7 +18,7 @@ A simple **Caro (Tic Tac Toe) 3x3** game built with **C# WinForms**.
 
 ## How to Run
 
-1. Open the project in **Visual Studio**
+1. Open the project in Visual Studio
 2. Build and run the solution
 3. Play the game
 
