@@ -20,10 +20,6 @@ A simple **Caro (Tic Tac Toe) 3x3** game built with **C# WinForms**.
 2. Build and run the solution
 3. Play the game
 
-## Screenshot
-
-![Game Screenshot](Caro3x3/Resources/screenshot_1773325587.png)
-
 ## Author
 
 Nguyen Ngoc Minh Vy
