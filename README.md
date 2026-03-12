@@ -22,6 +22,8 @@ A simple **Caro (Tic Tac Toe) 3x3** game built with **C# WinForms**.
 2. Build and run the solution
 3. Play the game
 
+This project is created for learning purposes.
+
 ## Author
 
 Nguyen Ngoc Minh Vy
