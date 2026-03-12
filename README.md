@@ -2,6 +2,9 @@
 ##Dowdload/run
 https://github.com/NguyenNgocMinhVy/CARO-3x3-/releases
 
+## Documentation
+- [Business Analysis](BA.md)
+  
 A simple **Caro (Tic Tac Toe) 3x3** game built with **C# WinForms**.
 
 ## Features
@@ -22,6 +25,7 @@ A simple **Caro (Tic Tac Toe) 3x3** game built with **C# WinForms**.
 2. Build and run the solution
 3. Play the game
 
+## Notes
 This project is created for learning purposes.
 
 ## Author
